@@ -1,7 +1,7 @@
 Package.describe({
   name: 'selchenkov:angular-autocomplete',
   summary: 'Meteor package for the angular-autocomplete library',
-  version: '0.0.3',
+  version: '0.0.5',
   git: 'https://github.com/vashik/meteor-angular-autocomplete.git'
 });
 
@@ -15,6 +15,7 @@ Package.onUse(function(api) {
       'client');  // Add bower
   api.addFiles('smart.json');
   api.addFiles('selchenkov:angular-autocomplete.js');
+  api.addFiles('selchenkov:angular-autocomplete.css');
 });
 
 Package.onTest(function(api) {
