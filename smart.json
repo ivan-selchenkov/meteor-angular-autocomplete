@@ -9,6 +9,6 @@
     "bower": {}
   },
   "bower": {
-    "allmighty-autocomplete": "1.x"
+    "allmighty-autocomplete": "*"
   }
 }
