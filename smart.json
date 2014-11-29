@@ -1,0 +1,14 @@
+{
+  "name": "selchenkov::angular-autocomplete",
+  "description": "Meteor package for the angular-autocomplete library",
+  "homepage": "https://github.com/vashik/meteor-angular-autocomplete",
+  "author": "Ivan Selchenkov <vashik.net@gmail.com>",
+  "git": "https://github.com/vashik/meteor-angular-autocomplete.git",
+  "version": "0.0.1",
+  "packages": {
+    "bower": {}
+  },
+  "bower": {
+    "allmighty-autocomplete": "1.x"
+  }
+}

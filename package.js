@@ -1,7 +1,7 @@
 Package.describe({
   name: 'selchenkov:angular-autocomplete',
   summary: 'Meteor package for the angular-autocomplete library',
-  version: '0.0.1',
+  version: '0.0.2',
   git: 'https://github.com/vashik/meteor-angular-autocomplete.git'
 });
 
